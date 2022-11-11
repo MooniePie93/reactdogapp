@@ -1,0 +1,18 @@
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+#root {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.banner {
+  background-color: rgba(0, 0, 0, 0.08);
+  font-size: 14px;
+  padding: 16px;
+  line-height: 18px;
+}
